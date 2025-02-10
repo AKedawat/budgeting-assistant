@@ -15,7 +15,7 @@ Budgeting Assistant is an AI-powered tool that takes an **expense string** in JS
 ## 🔧 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AnushaK/budgeting-assistant.git
+   git clone https://github.com/AKedawat/budgeting-assistant.git
 pip install -r requirements.txt
 python app.py
 {
